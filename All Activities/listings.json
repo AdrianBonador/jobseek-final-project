@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Software Engineer",
+        "description": "We are seeking a skilled software engineer to develop high quality software solutions.",
+        "salary": 80000,
+        "location": "San Francisco",
+        "tags": [
+            "Java",
+            "Python",
+            "PHP"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Chef",
+        "description": "Looking for a creative chef to manage kitchen operations.",
+        "salary": 40000,
+        "location": "New York",
+        "tags": [
+            "Cooking",
+            "Baking",
+            "Menu Planning"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Teacher",
+        "description": "Experienced teacher needed for elementary school.",
+        "salary": 35000,
+        "location": "Chicago",
+        "tags": [
+            "Math",
+            "Science",
+            "English"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Artist",
+        "description": "Seeking a painter to create unique artwork for gallery.",
+        "salary": 30000,
+        "location": "Los Angeles",
+        "tags": [
+            "Painting",
+            "Drawing",
+            "Sketching"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Farmer",
+        "description": "Looking for someone to manage and grow crops organically.",
+        "salary": 25000,
+        "location": "Texas",
+        "tags": [
+            "Farming",
+            "Harvesting",
+            "Irrigation"
+        ]
+    }
+]
